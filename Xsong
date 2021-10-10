@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+
+<html lang="it">
+
+<style>
+body{
+background-image: radial-gradient(circle, #66ff00, #74b500, #617200, #3b3908, #050402);
+
+</style>
+
+
+<audio controls>
+	
+<source src="Look At Me.mp3"
+	  type ="audio/mp3">
+	</audio>
+	
+	
+	<style>
+		audio {
+    position: absolute;
+    top: 100px;
+   
+}
+
+	</style>
+	
+	
+	
+	
+	
